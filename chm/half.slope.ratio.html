@@ -1,0 +1,73 @@
+<html><head><title>Half slope ratio</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="Rchm.css">
+</head>
+<body>
+
+<table width="100%"><tr><td>half.slope.ratio(LearnEDA)</td><td align="right">R Documentation</td></tr></table><object type="application/x-oleobject" classid="clsid:1e2a7bd0-dab9-11d0-b93a-00c04fc99f9e">
+<param name="keyword" value="R:   half.slope.ratio">
+<param name="keyword" value=" Half slope ratio">
+</object>
+
+
+<h2>Half slope ratio</h2>
+
+
+<h3>Description</h3>
+
+<p>
+Computes the half slope ratio for three summary points and
+power transformations on the two variables.
+</p>
+
+
+<h3>Usage</h3>
+
+<pre>
+half.slope.ratio(sx,sy,px,py)
+</pre>
+
+
+<h3>Arguments</h3>
+
+<table summary="R argblock">
+<tr valign="top"><td><code>sx</code></td>
+<td>
+numeric vector of summary values of the x variable</td></tr>
+<tr valign="top"><td><code>sy</code></td>
+<td>
+numeric vector of summary values of the y variable</td></tr>
+<tr valign="top"><td><code>px</code></td>
+<td>
+power of the transformation on the x variable</td></tr>
+<tr valign="top"><td><code>py</code></td>
+<td>
+power of the transformation on the y variable</td></tr>
+</table>
+
+<h3>Value</h3>
+
+<p>
+Value of the half slope ratio on the transformed summary points</p>
+
+<h3>Author(s)</h3>
+
+<p>
+Jim Albert
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+sx=c(10,30,50)
+sy=c(5,8,20)
+half.slope.ratio(sx,sy,1,1)
+half.slope.ratio(sx,sy,-.5,-.5)
+</pre>
+
+
+
+<hr><div align="center">[Package <em>LearnEDA</em> version 1.0 <a href="00Index.html">Index]</a></div>
+
+</body></html>

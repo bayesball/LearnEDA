@@ -1,0 +1,70 @@
+<html><head><title>Matched transformation</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="Rchm.css">
+</head>
+<body>
+
+<table width="100%"><tr><td>mtrans(LearnEDA)</td><td align="right">R Documentation</td></tr></table><object type="application/x-oleobject" classid="clsid:1e2a7bd0-dab9-11d0-b93a-00c04fc99f9e">
+<param name="keyword" value="R:   mtrans">
+<param name="keyword" value=" Matched transformation">
+</object>
+
+
+<h2>Matched transformation</h2>
+
+
+<h3>Description</h3>
+
+<p>
+Computes a matched power transformation on data that preserves the median.
+</p>
+
+
+<h3>Usage</h3>
+
+<pre>
+mtrans(d,p)
+</pre>
+
+
+<h3>Arguments</h3>
+
+<table summary="R argblock">
+<tr valign="top"><td><code>d</code></td>
+<td>
+numeric vector of values</td></tr>
+<tr valign="top"><td><code>p</code></td>
+<td>
+power of transformation</td></tr>
+</table>
+
+<h3>Value</h3>
+
+<table summary="R argblock">
+<tr valign="top"><td><code>vector of values of matched transformation</code></td>
+<td>
+</td></tr>
+</table>
+
+<h3>Author(s)</h3>
+
+<p>
+Jim Albert
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+data(state)
+raw=state.x77[,"Population"]
+matched.roots=mtrans(raw,0.5)
+matched.logs=mtrans(raw,0)
+boxplot(data.frame(raw,matched.roots,matched.logs))
+</pre>
+
+
+
+<hr><div align="center">[Package <em>LearnEDA</em> version 1.0 <a href="00Index.html">Index]</a></div>
+
+</body></html>

@@ -1,0 +1,86 @@
+<html><head><title>Fitting a Gaussian curve to binned data</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="Rchm.css">
+</head>
+<body>
+
+<table width="100%"><tr><td>fit.gaussian(LearnEDA)</td><td align="right">R Documentation</td></tr></table><object type="application/x-oleobject" classid="clsid:1e2a7bd0-dab9-11d0-b93a-00c04fc99f9e">
+<param name="keyword" value="R:   fit.gaussian">
+<param name="keyword" value=" Fitting a Gaussian curve to binned data">
+</object>
+
+
+<h2>Fitting a Gaussian curve to binned data</h2>
+
+
+<h3>Description</h3>
+
+<p>
+Fits a Gaussian curve with known mean and standard deviation to binned data.
+</p>
+
+
+<h3>Usage</h3>
+
+<pre>
+fit.gaussian(data,bins,g.mean,g.sd)
+</pre>
+
+
+<h3>Arguments</h3>
+
+<table summary="R argblock">
+<tr valign="top"><td><code>data</code></td>
+<td>
+numeric vector of values of variable</td></tr>
+<tr valign="top"><td><code>bins</code></td>
+<td>
+a vector giving the breakpoints between histogram cells</td></tr>
+<tr valign="top"><td><code>g.mean</code></td>
+<td>
+mean of Gaussian distribution</td></tr>
+<tr valign="top"><td><code>g.sd</code></td>
+<td>
+standard deviation of Gaussian distribution</td></tr>
+</table>
+
+<h3>Value</h3>
+
+<table summary="R argblock">
+<tr valign="top"><td><code>counts</code></td>
+<td>
+vector of frequencies of the bins</td></tr>
+<tr valign="top"><td><code>probs</code></td>
+<td>
+vector of fitted probabilities of the bins</td></tr>
+<tr valign="top"><td><code>expected</code></td>
+<td>
+vector of expected frequencies of the bins</td></tr>
+<tr valign="top"><td><code>residual</code></td>
+<td>
+vector of simple rootogram residuals</td></tr>
+</table>
+
+<h3>Author(s)</h3>
+
+<p>
+Jim Albert
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+# fit Gaussian curve to simulated data from t distribution
+data=rt(200,df=5)
+bins=pretty(range(data))
+g.mean=0
+g.sd=1
+fit.gaussian(data,bins,g.mean,g.sd)
+</pre>
+
+
+
+<hr><div align="center">[Package <em>LearnEDA</em> version 1.0 <a href="00Index.html">Index]</a></div>
+
+</body></html>

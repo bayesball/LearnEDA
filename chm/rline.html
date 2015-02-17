@@ -1,0 +1,88 @@
+<html><head><title>Resistant line</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="Rchm.css">
+</head>
+<body>
+
+<table width="100%"><tr><td>rline(LearnEDA)</td><td align="right">R Documentation</td></tr></table><object type="application/x-oleobject" classid="clsid:1e2a7bd0-dab9-11d0-b93a-00c04fc99f9e">
+<param name="keyword" value="R:   rline">
+<param name="keyword" value=" Resistant line">
+</object>
+
+
+<h2>Resistant line</h2>
+
+
+<h3>Description</h3>
+
+<p>
+Fits Tukey's resistant line of form a + b (x - xC).
+</p>
+
+
+<h3>Usage</h3>
+
+<pre>
+rline(x,y,iter=1)
+</pre>
+
+
+<h3>Arguments</h3>
+
+<table summary="R argblock">
+<tr valign="top"><td><code>x</code></td>
+<td>
+numeric vector of values of explanatory variable</td></tr>
+<tr valign="top"><td><code>y</code></td>
+<td>
+numeric vector of values of response variable</td></tr>
+<tr valign="top"><td><code>iter</code></td>
+<td>
+number of iterations of algorithm</td></tr>
+</table>
+
+<h3>Value</h3>
+
+<table summary="R argblock">
+<tr valign="top"><td><code>a</code></td>
+<td>
+value of intercept a</td></tr>
+<tr valign="top"><td><code>b</code></td>
+<td>
+value of slope b</td></tr>
+<tr valign="top"><td><code>xC</code></td>
+<td>
+value of xC</td></tr>
+<tr valign="top"><td><code>half.slope.ratio</code></td>
+<td>
+value of half slope ratio after one iteration</td></tr>
+<tr valign="top"><td><code>residual</code></td>
+<td>
+vector of residuals</td></tr>
+</table>
+
+<h3>Author(s)</h3>
+
+<p>
+Jim Albert
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+x=1:10
+y=3*x+rnorm(10,0,1)
+y[1]=20
+fit=rline(x,y,iter=5)
+plot(x,y)
+curve(fit$a+fit$b*(x-fit$xC),add=TRUE)
+# contrast with least-squares fit
+abline(lm(y~x))
+</pre>
+
+
+
+<hr><div align="center">[Package <em>LearnEDA</em> version 1.01 <a href="00Index.html">Index]</a></div>
+
+</body></html>

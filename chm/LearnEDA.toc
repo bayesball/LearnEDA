@@ -1,0 +1,395 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HEAD></HEAD><HTML><BODY>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Package LearnEDA:  Contents">
+<param name="Local" value="00Index.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Package LearnEDA:  R objects">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="act.scores.06.07">
+<param name="Local" value="act.scores.06.07.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="baseball.attendance">
+<param name="Local" value="baseball.attendance.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="beatles">
+<param name="Local" value="beatles.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="boston.marathon">
+<param name="Local" value="boston.marathon.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="boston.marathon.wtimes">
+<param name="Local" value="boston.marathon.wtimes.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="brave.at">
+<param name="Local" value="brave.at.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="car.measurements">
+<param name="Local" value="car.measurements.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="church.2way">
+<param name="Local" value="church.2.way.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="church.tseries">
+<param name="Local" value="church.tseries.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="college.ratings">
+<param name="Local" value="college.ratings.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="farms">
+<param name="Local" value="farms.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="fit.gaussian">
+<param name="Local" value="fit.gaussian.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="football">
+<param name="Local" value="football.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="gestation.periods">
+<param name="Local" value="gestation.periods.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="grandma.19.40">
+<param name="Local" value="grandma.19.40.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="half.slope.ratio">
+<param name="Local" value="half.slope.ratio.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="han">
+<param name="Local" value="han.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="heaviest.fish">
+<param name="Local" value="heaviest.fish.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="hinkley">
+<param name="Local" value="hinkley.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="home.prices">
+<param name="Local" value="home.prices.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="homeruns.2000">
+<param name="Local" value="homeruns.2000.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="homeruns.61">
+<param name="Local" value="homeruns.61.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="immigrants">
+<param name="Local" value="immigrants.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="island.areas">
+<param name="Local" value="island.areas.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="lake">
+<param name="Local" value="lake.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="lval">
+<param name="Local" value="lval.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="mortality.rates">
+<param name="Local" value="mortality.rates.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="mtrans">
+<param name="Local" value="mtrans.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="olympics.run">
+<param name="Local" value="olympics.run.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="olympics.speed.skating">
+<param name="Local" value="olympics.speed.skating.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="olympics.swim">
+<param name="Local" value="olympics.swim.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="plot2way">
+<param name="Local" value="plot.2way.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="pop.change">
+<param name="Local" value="pop.change.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="pop.densities.1920.2000">
+<param name="Local" value="pop.densities.1920.2000.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="pop.england">
+<param name="Local" value="pop.england.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="rent.prices">
+<param name="Local" value="rent.prices.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="rline">
+<param name="Local" value="rline.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="salaries">
+<param name="Local" value="salaries.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="spread.level.plot">
+<param name="Local" value="spread.level.plot.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="studentdata">
+<param name="Local" value="studentdata.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="symplot">
+<param name="Local" value="symplot.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="temperatures">
+<param name="Local" value="temperatures.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="tukey.24a">
+<param name="Local" value="tukey.24a.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="tukey.24b">
+<param name="Local" value="tukey.24b.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="tukey.26a">
+<param name="Local" value="tukey.26a.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="tukey.26b">
+<param name="Local" value="tukey.26b.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="tukey.26c">
+<param name="Local" value="tukey.26c.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="us.pop">
+<param name="Local" value="us.pop.html">
+</OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Package LearnEDA:  Titles">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="ACT scores of states in the US.">
+<param name="Local" value="act.scores.06.07.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="American football scores">
+<param name="Local" value="football.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Areas of islands from different continents.">
+<param name="Local" value="island.areas.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Attendance at baseball teams.">
+<param name="Local" value="baseball.attendance.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Attendance at games of a baseball team">
+<param name="Local" value="brave.at.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Boston Marathon completion times of women of different ages.">
+<param name="Local" value="boston.marathon.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Boston marathon winning times">
+<param name="Local" value="boston.marathon.wtimes.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Car measurements">
+<param name="Local" value="car.measurements.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Church attendance as a two-way table.">
+<param name="Local" value="church.2.way.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="England population">
+<param name="Local" value="pop.england.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Fish world record catches">
+<param name="Local" value="heaviest.fish.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Fitting a Gaussian curve to binned data">
+<param name="Local" value="fit.gaussian.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Gestation periods for different animals.">
+<param name="Local" value="gestation.periods.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Grandmas Marathon completion times">
+<param name="Local" value="grandma.19.40.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Half slope ratio">
+<param name="Local" value="half.slope.ratio.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Hanning a sequence">
+<param name="Local" value="han.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Hinkley's quick method">
+<param name="Local" value="hinkley.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Home run counts in 1961">
+<param name="Local" value="homeruns.61.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Home sales prices in the U.S.">
+<param name="Local" value="home.prices.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Immigrant counts to US.">
+<param name="Local" value="immigrants.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Infant mortality rates of countries">
+<param name="Local" value="mortality.rates.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Lake measurements">
+<param name="Local" value="lake.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Lengths of songs from Beatles' albums.">
+<param name="Local" value="beatles.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Letter values">
+<param name="Local" value="lval.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Matched transformation">
+<param name="Local" value="mtrans.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Number of farms in the states of the U.S.">
+<param name="Local" value="farms.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Olympics running times.">
+<param name="Local" value="olympics.run.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Olympics speed skating times.">
+<param name="Local" value="olympics.speed.skating.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Olympics swimming times.">
+<param name="Local" value="olympics.swim.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Plot of an additive fit">
+<param name="Local" value="plot.2way.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Population change for all states in the U.S.">
+<param name="Local" value="pop.change.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Population densities of states for different years.">
+<param name="Local" value="pop.densities.1920.2000.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Population of United States">
+<param name="Local" value="us.pop.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Ratings of National Universities in the U.S.">
+<param name="Local" value="college.ratings.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Rent prices in different cities.">
+<param name="Local" value="rent.prices.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Resistant line">
+<param name="Local" value="rline.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Salaries of different professions in different cities.">
+<param name="Local" value="salaries.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Spread versus level plot">
+<param name="Local" value="spread.level.plot.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Student dataset">
+<param name="Local" value="studentdata.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Symmetry plot">
+<param name="Local" value="symplot.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Team home run numbers for different seasons.">
+<param name="Local" value="homeruns.2000.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Temperatures for different cities.">
+<param name="Local" value="temperatures.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Time series of worship attendance">
+<param name="Local" value="church.tseries.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Tukey straightening exercise 24a">
+<param name="Local" value="tukey.26a.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Tukey straightening exercise 24b">
+<param name="Local" value="tukey.26b.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+<param name="Name" value="Tukey straightening exercise 24c">
+<param name="Local" value="tukey.26c.html">
+</OBJECT>
+</UL>
+</UL>
+</BODY></HTML>
