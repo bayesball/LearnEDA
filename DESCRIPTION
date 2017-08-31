@@ -1,10 +1,10 @@
 Package: LearnEDA
 Type: Package
 Title: Functions for Learning Exploratory Data Analysis
-Version: 1.4
-Date: 2014-5-21
+Version: 1.41
+Date: 2017-08-31
 Author: Jim Albert
-Maintainer: Jim Albert <albert@bgnet.bgsu.edu>
+Maintainer: Jim Albert <albert@bgsu.edu>
 Depends: vcd, manipulate
 Imports:  aplpack, car
 LazyData: yes 
